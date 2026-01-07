@@ -20,11 +20,6 @@ project:
     - file: lesson07.md
     - file: lesson08.md
     - file: lesson09.md
-    - file: lesson10.md
-    - file: lesson11.md
-    - file: lesson12.md
-    - file: lesson13.md
-    - file: lesson14.md
     
 site:
   template: book-theme
